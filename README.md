@@ -24,7 +24,8 @@ The client needed to synchronise their own application (`App A`) with a 3rd-part
 #### Solution:
 
 This script was created to automate the creation of upload files to feed the 3rd-party app to ensure data were in sync.
-This reduced the time to approximately 30 minutes per week.
+
+This reduced the time to approximately 30 minutes per week (instead of 6-8 hours per week).
 
 # Prerequites
 
@@ -37,7 +38,8 @@ To install:
 
 # Highlights of the project
 
-This project was a good opportunity to handle data in a real world scenario.
+This project was a great opportunity to handle data in a real world scenario.
+
 It was also interesting to observe how difficult this was for other users to adopt this new workflow in Python.
 
 # Difficulties/barriers
